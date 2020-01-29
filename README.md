@@ -5,8 +5,10 @@ Technology used:
 
 Deployed version:
 
+https://thawing-garden-34891.herokuapp.com/
 
-About
+
+About:
 
 When the page opens, click the start button in the middle of the page.
 
